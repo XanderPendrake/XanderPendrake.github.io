@@ -1,3 +1,8 @@
+---
+title: About
+layout: default
+---
+
 # About Xander
 
 Xander Pendrake has been making up stories all their life nd writing them down since high school. They mostly write short stories, but upon discovering Twine they realized that they could easily create interactive stories as well. This site is a collection of their stories, wether they be prose or games made in Twine.
