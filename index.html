@@ -12,3 +12,12 @@ title: Home
     <p>
     	<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" align=middle /></a><br />Unless otherwise listed on the page of the story or game itself, all work on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
     </p>
+    <h1>Latest Blog Posts and Short Stories</h1>
+    <ul>
+    {% for post in site.posts %}
+        <li>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <p>{{ post.excerpt }}</p>
+        </li>
+    {% endfor %}
+    </ul>
