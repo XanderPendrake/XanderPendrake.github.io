@@ -3,6 +3,7 @@ layout: post
 author: Xander
 ---
 The problem with reading horror stories before bed is that, of course, you can't sleep. You tell yourself that it's just an autonomous response to fear or that you're just anticipating the nightmares that you might have. But deep down, you know that the real reason is that you're afraid of something coming to get you in the middle of the night. So you read something else, or find something to watch (quietly with headphones). Or maybe you just listen to some music (again, quietly, with headphones) and stare at the ceiling for a time. Eventually, you are able to find a way to sufficiently distract yourself and go to sleep.
+<!--more-->
 
 Suddenly, your alarm goes off, and you get up to get ready to go to work. But something's wrong. Your clock says that it's seven in the morning, but it's still dark out. There is no light coming through your windows, not even the red and purple twinge of sunrise. You look out the window, and something immediately catches your eye: the moon. When you went to sleep, it was a waning crescent. Now it is full. You look down from the sky, and find that your neighborhood has disappeared. In its place is a forest of what appears to be red coral. It stretches on for an impossible distance.
 

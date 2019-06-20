@@ -2,8 +2,10 @@
 layout: post
 author: Xander
 ---
+_CW: Minor gore_
 
 John knew that there were courteous customers out there. Most of the time that was who he dealt with: the kind of customer who thanked you when you went the extra mile, or who asked you how you were doing without you having to ask first. The kind of customer you knew would fill out a good survey about you. The problem was that it was hard to keep those customers in mind when dealing with the annoying customers, like the one John had now.
+<!--more-->
 
 “What do you mean she’s at lunch?” demanded the red-faced man.
 
